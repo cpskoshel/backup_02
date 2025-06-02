@@ -1,7 +1,7 @@
 # Домашнее задание к занятию "`Кластеризация и балансировка нагрузки`" - `Кошель Николай Павлович`
 
 ### Задание 1
-!haproxy.cfg(haproxy.cfg)
+[haproxy.cfg](haproxy.cfg)
 ![curl](image.png)
 ![stat](image-1.png)
 ### Задание 2
